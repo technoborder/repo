@@ -1,0 +1,2 @@
+40 10 14 11 1 mplayer /home/natasha/Музыка/123.mp3
+15 16 14 11 1 mplayer /home/natasha/Музыка/123.mp3
